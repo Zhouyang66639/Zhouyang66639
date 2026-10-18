@@ -1,23 +1,36 @@
-# ZHOU YANG
+<a href="https://zhouyang-lab.pages.dev/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.png" />
+    <img src="./assets/hero.png" width="100%" alt="Hi, I'm Zhou Yang — AI 应用与智能系统开发者. NTU, Singapore. Warm orange and lavender with the black cat from my personal website." />
+  </picture>
+</a>
 
-## Featured merged PR
+<p align="center">
+  <a href="https://zhouyang-lab.pages.dev/"><b>个人主页 / Portfolio ↗</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Zhouyang66639?tab=repositories">Repositories</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:zhouyang66639@outlook.com">Say hello</a>
+</p>
 
-### [DeerFlow · InfoQuest result-URL safety](https://github.com/bytedance/deer-flow/pull/7031)
+Student at **Nanyang Technological University**, Singapore. Exploring AI through documents, retrieval, and agent workflows.
 
-**🟣 MERGED** · **[bytedance/deer-flow #7031](https://github.com/bytedance/deer-flow/pull/7031)** · **18 Oct 2026**
+## 开源贡献 · Open source
 
-Screens InfoQuest search-result URLs with DeerFlow's shared public-URL policy and rejects unscreened fallback responses.
+<a href="https://github.com/bytedance/deer-flow/pull/7031">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/deerflow-contribution-mobile.svg" />
+    <img src="./assets/deerflow-contribution.svg" width="100%" alt="DeerFlow: contributed PR #7031, merged on 18 October 2026. 84k+ GitHub stars belong to the upstream bytedance/deer-flow project, checked on that date." />
+  </picture>
+</a>
 
-PR submitted by [@Zhouyang66639](https://github.com/Zhouyang66639), merged upstream into `main` by [@WillemJiang](https://github.com/WillemJiang).
+**[View merged PR #7031 ↗](https://github.com/bytedance/deer-flow/pull/7031)** · Screens InfoQuest result URLs with the shared public-URL policy and rejects unscreened fallback responses.
 
-[**View merged PR →**](https://github.com/bytedance/deer-flow/pull/7031) · [View merge commit](https://github.com/bytedance/deer-flow/commit/6e0ab091e7797478e87b6245203317c9a3685a1e)
+<a href="https://github.com/bytedance/deer-flow/stargazers"><img src="https://img.shields.io/badge/DeerFlow%20upstream%20stars-84k%2B-e9ad52?style=flat-square&amp;labelColor=9b78b0" alt="84k+ upstream GitHub stars for bytedance/deer-flow" /></a>
 
-<details>
-<summary>Patch history and maintainer credits</summary>
+**[DeerFlow 开源贡献 · PR #7031 已合并](https://github.com/bytedance/deer-flow/pull/7031)**
 
-- Initial patch: [PR #7028 by @xianth123](https://github.com/bytedance/deer-flow/pull/7028).
-- Resubmitted from this account as [PR #7031](https://github.com/bytedance/deer-flow/pull/7031).
-- Additional safety fixes, tests, and guidance: [follow-up commit by @WillemJiang](https://github.com/bytedance/deer-flow/commit/6324bfa9638e93623582bc11f1131b96e3a0f42c).
-- Merged upstream on **18 Oct 2026**.
+<sub>84k+ refers to the upstream repository's GitHub stars, checked on 18 Oct 2026.</sub>
 
-</details>
+<p align="center"><sub>A little code. A little curiosity. 🐾</sub></p>
+
