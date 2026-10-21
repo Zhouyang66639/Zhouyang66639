@@ -35,7 +35,7 @@ Student at **Nanyang Technological University**, Singapore. Exploring AI through
 <a href="https://github.com/loopx-project/loopx">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/loopx-contribution-mobile.svg" />
-    <img src="./assets/loopx-contribution.svg" width="100%" alt="LoopX Contributor: PRs #6969 and #6970, both merged on 21 October 2026." />
+    <img src="./assets/loopx-contribution.svg" width="100%" alt="LoopX Contributor: PRs #6969 and #6970, both merged on 21 October 2026. 6,382 GitHub stars belong to the upstream loopx-project/loopx repository, checked on 21 October 2026." />
   </picture>
 </a>
 
@@ -46,6 +46,8 @@ Student at **Nanyang Technological University**, Singapore. Exploring AI through
 **[LoopX Contributor · 开源贡献者 · PR #6969 and #6970 已合并](https://github.com/loopx-project/loopx)**
 
 <sub>Both PRs merged on 21 Oct 2026.</sub>
+
+<sub>6,382 refers to the upstream repository's GitHub stars, checked on 21 Oct 2026.</sub>
 
 <p align="center"><sub>A little code. A little curiosity. 🐾</sub></p>
 
