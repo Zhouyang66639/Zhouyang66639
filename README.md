@@ -32,5 +32,20 @@ Student at **Nanyang Technological University**, Singapore. Exploring AI through
 
 <sub>84k+ refers to the upstream repository's GitHub stars, checked on 18 Oct 2026.</sub>
 
+<a href="https://github.com/loopx-project/loopx">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/loopx-contribution-mobile.svg" />
+    <img src="./assets/loopx-contribution.svg" width="100%" alt="LoopX Contributor: PRs #6969 and #6970, both merged on 21 October 2026." />
+  </picture>
+</a>
+
+**[View merged PR #6969 ↗](https://github.com/loopx-project/loopx/pull/6969)** · Centralizes goal-id path-segment validation across runtime, history, and slot-accounting checks.
+
+**[View merged PR #6970 ↗](https://github.com/loopx-project/loopx/pull/6970)** · Reuses shared identifier-shape patterns across three call sites and removes a stale exemption.
+
+**[LoopX Contributor · 开源贡献者 · PR #6969 and #6970 已合并](https://github.com/loopx-project/loopx)**
+
+<sub>Both PRs merged on 21 Oct 2026.</sub>
+
 <p align="center"><sub>A little code. A little curiosity. 🐾</sub></p>
 
