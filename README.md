@@ -19,8 +19,8 @@ Student at **Nanyang Technological University**, Singapore. Exploring AI through
 
 <a href="https://github.com/bytedance/deer-flow/pull/7031">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://zhouyang-lab.pages.dev/cards/deerflow-mobile.svg" />
-    <img src="https://zhouyang-lab.pages.dev/cards/deerflow.svg" width="100%" alt="DeerFlow Contributor: PR #7031 merged into the upstream repository." />
+    <source media="(max-width: 600px)" srcset="https://zhouyang-lab.pages.dev/cards/deerflow-mobile.svg?sync=20261022" />
+    <img src="https://zhouyang-lab.pages.dev/cards/deerflow.svg?sync=20261022" width="100%" alt="DeerFlow Contributor: PR #7031 merged into the upstream repository." />
   </picture>
 </a>
 
@@ -30,8 +30,8 @@ Student at **Nanyang Technological University**, Singapore. Exploring AI through
 
 <a href="https://github.com/loopx-project/loopx">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://zhouyang-lab.pages.dev/cards/loopx-mobile.svg" />
-    <img src="https://zhouyang-lab.pages.dev/cards/loopx.svg" width="100%" alt="LoopX Contributor: PRs #6969 and #6970 merged into the upstream repository." />
+    <source media="(max-width: 600px)" srcset="https://zhouyang-lab.pages.dev/cards/loopx-mobile.svg?sync=20261022" />
+    <img src="https://zhouyang-lab.pages.dev/cards/loopx.svg?sync=20261022" width="100%" alt="LoopX Contributor: PRs #6969 and #6970 merged into the upstream repository." />
   </picture>
 </a>
 
@@ -43,7 +43,7 @@ Student at **Nanyang Technological University**, Singapore. Exploring AI through
 
 <sub>Both PRs merged on 21 Oct 2026.</sub>
 
-Upstream GitHub stars refresh automatically from cached repository data; each card shows when its count was checked.
+Upstream GitHub Stars are synchronized from one shared snapshot, scheduled hourly with GitHub Actions. Counts use GitHub-style rounding with a k+ suffix; each card shows its actual check date. Updates may take a few minutes to appear.
 
 <p align="center"><sub>A little code. A little curiosity. 🐾</sub></p>
 
