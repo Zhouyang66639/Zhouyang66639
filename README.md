@@ -41,6 +41,8 @@ Student at **Nanyang Technological University**, Singapore. Exploring AI through
 
 **[LoopX Contributor · 开源贡献者 · PR #6969 and #6970 已合并](https://github.com/loopx-project/loopx)**
 
+**[v2.1.0 发布说明署名 · Release acknowledgment ↗](https://github.com/loopx-project/loopx/releases/tag/v2.1.0#community-contributors)** · Listed as a community contributor for shared traversal and identifier rules, referencing PRs [#6969](https://github.com/loopx-project/loopx/pull/6969) and [#6970](https://github.com/loopx-project/loopx/pull/6970).
+
 <sub>Both PRs merged on 21 Oct 2026.</sub>
 
 Upstream GitHub Stars are synchronized from one shared snapshot, scheduled hourly with GitHub Actions. Counts use GitHub-style rounding with a k+ suffix; each card shows its actual check date. Updates may take a few minutes to appear.
