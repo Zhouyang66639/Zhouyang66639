@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-07T20:53:56.917Z",
+  "checkedAt": "2026-11-08T00:37:15.662Z",
   "repositories": {
     "bytedance/deer-flow": {
-      "count": 85114,
-      "checkedAt": "2026-11-07T20:53:56.917Z"
+      "count": 85116,
+      "checkedAt": "2026-11-08T00:37:15.662Z"
     },
     "loopx-project/loopx": {
       "count": 6560,
-      "checkedAt": "2026-11-07T20:53:56.917Z"
+      "checkedAt": "2026-11-08T00:37:15.662Z"
     }
   }
 }
